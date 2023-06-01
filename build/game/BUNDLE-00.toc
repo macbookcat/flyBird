@@ -1,0 +1,3 @@
+([('game',
+   '/Users/zhouwenmao/PycharmProjects/Flappy Bird/dist/game',
+   'EXECUTABLE')],)
